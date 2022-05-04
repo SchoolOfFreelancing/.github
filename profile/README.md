@@ -1,13 +1,6 @@
 ## Hi there 👋
+We'll mentor you to get highest paying Linux freelance jobs for a steady income.
 
+We're on a mission to empower on-demand Linux hands-on training to develop giant linux freelancer from home 🏠
 
-
-**Official Global LinkedIn Page For School Of Freelancing.**
-
-🙋‍♀️ WE'LL MENTOR YOU TO GET HIGHEST PAYING LINUX FREELANCE JOBS FOR A STEADY INCOME🐧
-🌈 WE'RE ON A MISSION TO EMPOWER ON-DEMAND LINUX HANDS-ON TRAINING TO DEVELOP GIANT LINUX FREELANCER FROM HOME 🏠
-👩‍💻 100% Online Training
-🍿 WE USE GIT DISTRIBUTED VERSION CONTROL SYSTEM TO HANDLE EVERYTHING ABOUT OUR TRAINING ACTIVITY FROM SCRATCH 
-TO SUCCESSFUL TRAINING COMPLETE WITH SPEED AND EFFICIENCY.
-🧙 Remember, you can do mighty things using any Linux for your client job.
-
+**Official Global GitHub For School Of Freelancing.**
