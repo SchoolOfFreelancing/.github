@@ -1,4 +1,5 @@
 <h1 align="center">$_ School of Freelancing</h1>
+<h2 align="center">Built for Freelancers, by Freelancers</h2>
 
 <p align="center">
   <b>Linux, VoIP, SMS, DevOps, Cybersecurity & AI Skills Training — from Comilla, Bangladesh to the Global Marketplace</b>
@@ -25,19 +26,28 @@ Two audiences, one platform:
 
 | Track | Focus |
 |---|---|
-| Linux Freelancing Course | Ubuntu / CentOS / AlmaLinux administration |
-| AI Agent Mastery | Hermes Agent, Odysseus AI Workspace, OpenClaw, LocalAI, ZeroClaw |
+| Linux Freelancing Training | Ubuntu / CentOS / AlmaLinux administration |
+| AI Agent Mastery | Hermes Agent, Odysseus AI Workspace, VAPI, OpenClaw, LocalAI, ZeroClaw |
 | DevOps Mastery | GitLab CE, GitHub Actions, GHES |
 | VoIP Mastery | Telnyx + VAPI, Twilio + VAPI, FusionPBX, GoAutoDial |
+| SMS Mastery | Telnyx SMS API + Twilio SMS API + VAPI, FusionPBX, GoAutoDial |
+| Cybersecurity Training | On-demand Training to Kick-start Your Cybersecurity Learning |
 
-Each course follows a 5-day format: setup → configuration → third-party integration → production deployment → Upwork capstone.
+On-demand hands-on Linux training on cutting-edge tech & trends
 
 ## 🛠 Tech Support
 
-- Telnyx VoIP SIP Support
+- Linux Server Services
+- Hermes Agent Support
+- AI Agent Support
 - DigitalOcean Cloud Support
 - Vapi Platform Support
 - Hummingbot Installation Support
+- GitLab Community Edition Setup
+- GitHub Enterprise Server Setup
+- FusionPBX VoIP Support
+- OpenAI Platform Support
+- Claude Platform Support
 - Twilio SMS API & Telnyx SMS REST API Setup
 
 ## 📦 Repositories
