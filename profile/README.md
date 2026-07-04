@@ -1,7 +1,7 @@
 <h1 align="center">$_ School of Freelancing</h1>
 
 <p align="center">
-  <b>Linux, VoIP, DevOps & AI Skills Training — from Comilla, Bangladesh to the Global Marketplace</b>
+  <b>Linux, VoIP, SMS, DevOps, Cybersecurity & AI Skills Training — from Comilla, Bangladesh to the Global Marketplace</b>
 </p>
 
 <p align="center">
