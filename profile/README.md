@@ -57,6 +57,8 @@ On-demand hands-on Linux training on cutting-edge tech & trends
 - WhatsApp: [WhatsApp](https://wa.me/8801748973769)
 - Founder: Masum
 
+---
+
 <p align="center">© School of Freelancing. All rights reserved. Built with ❤️ from Bangladesh.</p>
 ![TargetOS](https://img.shields.io/badge/TargetOS-Linux-0069FF)
 ![Format](https://img.shields.io/badge/Format-Remote_Hands--on_Training-brightgreen)
