@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://schooloffreelancing.com">🌐 Website</a> •
   <a href="#-courses">📚 Training</a> •
-  <a href="#-tech-support-services">🛠 Tech Support Services</a> •
+  <a href="#-tech-support-services">🛠 Tech Support</a> •
   <a href="#-contact">📩 Let's Talk</a>
 </p>
 
@@ -32,7 +32,7 @@ Two audiences, one platform:
 
 Each course follows a 5-day format: setup → configuration → third-party integration → production deployment → Upwork capstone.
 
-## 🛠 Tech Support Services
+## 🛠 Tech Support
 
 - Telnyx VoIP SIP Support
 - DigitalOcean Cloud Support
