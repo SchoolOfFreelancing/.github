@@ -1,4 +1,4 @@
-<h1 align="center">$_ School of Freelancing</h1>
+<h1 align="center">School of Freelancing</h1>
 <h2 align="center">Built for Freelancers, by Freelancers</h2>
 
 <p align="center">
@@ -61,4 +61,4 @@ On-demand hands-on Linux training on cutting-edge tech & trends
 
 ---
 
-<p align="center"><sub>Terminal-themed. Green-on-black. Built for freelancers, by freelancers.</sub></p>
+<p align="center">© School of Freelancing. All rights reserved. Built with ❤️ from Bangladesh.</p>
