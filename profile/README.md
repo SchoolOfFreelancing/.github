@@ -25,11 +25,11 @@ Two audiences, one platform:
 - 🎓 **Beginner freelancers** — On-demand Hands-on training ending Linux freelancing career worldwide marketplaces.
 - 🏢 **Business clients** — Linux, VoIP, and cloud infrastructure support for business or individual.
 
-## 📚 Training
+## 📚 Training Repositories
 
-| Track | Focus |
+| Repositories | Focus |
 |---|---|
-| Linux Freelancing Training | Ubuntu / CentOS / AlmaLinux administration |
+| Linux Server Training | Ubuntu / CentOS / AlmaLinux administration |
 | AI Agent Mastery | Hermes Agent, Odysseus AI Workspace, VAPI, OpenClaw, LocalAI, ZeroClaw |
 | DevOps Mastery | GitLab CE, GitHub Actions, GHES |
 | VoIP Mastery | Telnyx + VAPI, Twilio + VAPI, FusionPBX, GoAutoDial |
@@ -38,7 +38,7 @@ Two audiences, one platform:
 
 On-demand hands-on Linux training on cutting-edge tech & trends
 
-## 🛠 Tech Support
+## 🛠 Tech Support Repositories
 
 - Linux Server Services
 - Hermes Agent Support
@@ -52,10 +52,6 @@ On-demand hands-on Linux training on cutting-edge tech & trends
 - OpenAI Platform Support
 - Claude Platform Support
 - Twilio SMS API & Telnyx SMS REST API Setup
-
-## 📦 Repositories
-
-- [`Linux-Freelancing-Training`](https://github.com/SchoolOfFreelancing/Linux-Freelancing-Training) — core training curriculum and materials
 
 ## 📩 Let's Talk
 
