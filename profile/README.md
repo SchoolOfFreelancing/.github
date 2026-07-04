@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://schooloffreelancing.com">🌐 Website</a> •
-  <a href="#-courses">📚 Courses</a> •
-  <a href="#-tech-support-services">🛠 Services</a> •
-  <a href="#-contact">📩 Contact</a>
+  <a href="#-courses">📚 Training</a> •
+  <a href="#-tech-support-services">🛠 Tech Support Services</a> •
+  <a href="#-contact">📩 Let's Talk</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ Two audiences, one platform:
 - 🎓 **Beginner freelancers** — structured 5-day bootcamps ending in an Upwork job-search-to-withdrawal capstone
 - 🏢 **Business clients** — Linux, VoIP, and cloud infrastructure support
 
-## 📚 Courses
+## 📚 Training
 
 | Track | Focus |
 |---|---|
@@ -44,10 +44,10 @@ Each course follows a 5-day format: setup → configuration → third-party inte
 
 - [`Linux-Freelancing-Training`](https://github.com/SchoolOfFreelancing/Linux-Freelancing-Training) — core training curriculum and materials
 
-## 📩 Contact
+## 📩 Let's Talk
 
-- Website: [schooloffreelancing.com](https://schooloffreelancing.com)
-- Instructor: S K Chowdhury Masum
+- WhatsApp: [WhatsApp](https://wa.me/8801748973769)
+- Founder: Masum
 
 ---
 
