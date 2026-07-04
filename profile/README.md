@@ -12,6 +12,12 @@
   <a href="#-contact">📩 Let's Talk</a>
 </p>
 
+![Provider](https://img.shields.io/badge/Platform-DigitalOcean-0069FF)
+![Delivery](https://img.shields.io/badge/Delivery-3%20BusinessDays-brightgreen)
+![Format](https://img.shields.io/badge/Format-Remote--Job%20-brightgreen)
+![Support](https://img.shields.io/badge/Support-24%2F7-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ---
 
 ## About
@@ -60,12 +66,5 @@ On-demand hands-on Linux training on cutting-edge tech & trends
 - Founder: Masum
 
 ---
-
-[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
-[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
 
 <p align="center">© School of Freelancing. All rights reserved. Built with ❤️ from Bangladesh.</p>
