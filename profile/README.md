@@ -1,3 +1,8 @@
+![TargetOS](https://img.shields.io/badge/TargetOS-Linux-0069FF)
+![Format](https://img.shields.io/badge/Format-Remote_Hands--on_Training-brightgreen)
+![Support](https://img.shields.io/badge/Support-24%2F7-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 <h1 align="center">School of Freelancing</h1>
 <h2 align="center">Built for Freelancers, by Freelancers</h2>
 
@@ -10,13 +15,6 @@
   <a href="#-courses">📚 Training</a> •
   <a href="#-tech-support-services">🛠 Tech Support</a> •
   <a href="#-contact">📩 Let's Talk</a>
-</p>
-
-<p align="center">
-![TargetOS](https://img.shields.io/badge/TargetOS-Linux-0069FF)
-![Format](https://img.shields.io/badge/Format-Remote_Hands--on_Training-brightgreen)
-![Support](https://img.shields.io/badge/Support-24%2F7-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 </p>
 ---
 
