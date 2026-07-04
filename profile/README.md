@@ -12,9 +12,8 @@
   <a href="#-contact">📩 Let's Talk</a>
 </p>
 
-![Provider](https://img.shields.io/badge/Platform-DigitalOcean-0069FF)
-![Delivery](https://img.shields.io/badge/Delivery-3%20BusinessDays-brightgreen)
-![Format](https://img.shields.io/badge/Format-Remote--Job%20-brightgreen)
+![TargetOS](https://img.shields.io/badge/TargetOS-Linux-0069FF)
+![Format](https://img.shields.io/badge/Format-Remote--Hands-onTraining-brightgreen)
 ![Support](https://img.shields.io/badge/Support-24%2F7-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
