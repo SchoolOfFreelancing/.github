@@ -15,10 +15,10 @@
 
 ## About
 
-**School of Freelancing** trains freelancers in Linux system administration, VoIP, DevOps, and AI agent development — and offers professional Linux/cloud tech support to businesses. Led by instructor **S K Chowdhury Masum**.
+**School of Freelancing** turns everyday learners into in-demand tech freelancers — training you in Linux, VoIP, SMS, DevOps, Cybersecurity & AI, while also delivering professional Linux/cloud support to real businesses. Led by Masum, a Bangladesh Government-Verified Freelancer (ID: F126196700864@freelancers.gov.bd) and expert Linux System Administrator — learn from someone who's proven in the field, not just the classroom.
 
 Two audiences, one platform:
-- 🎓 **Beginner freelancers** — structured 5-day bootcamps ending in an Upwork job-search-to-withdrawal capstone
+- 🎓 **Beginner freelancers** — On-demand Hands-on training ending freelancing career worldwide—win high-paying clients via direct outreach & global marketplaces.
 - 🏢 **Business clients** — Linux, VoIP, and cloud infrastructure support
 
 ## 📚 Training
