@@ -12,13 +12,6 @@
   <a href="#-lets-talk">📩 Let's Talk</a>
 </p>
 
-<p align="center">
-![TargetOS](https://img.shields.io/badge/TargetOS-Linux-0069FF)
-![Format](https://img.shields.io/badge/Format-Remote_Hands--on_Training-brightgreen)
-![Support](https://img.shields.io/badge/Support-24%2F7-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-</p>
-
 ## About
 
 **School of Freelancing** turns everyday learners into in-demand tech freelancers — training you in Linux, VoIP, SMS, DevOps, Cybersecurity & AI, while also delivering professional Linux/cloud support to real businesses. Led by Masum, a Bangladesh Government-Verified Freelancer (F126196700864@freelancers.gov.bd) and expert Linux System Administrator — learn from someone who's proven in the field, not just the classroom.
