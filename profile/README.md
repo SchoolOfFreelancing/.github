@@ -20,8 +20,7 @@ Two audiences, one platform:
 - 🎓 **Beginner Freelancers** — On-demand hands-on training ending in a Linux freelancing career on worldwide marketplaces.
 - 🏢 **Business Clients** — Linux, VoIP, and cloud infrastructure support for business or individual needs.
 
-## 📩 Let's Talk
-- WhatsApp: [WhatsApp](https://wa.me/8801748973769)
+## 📩 Let's Talk WhatsApp: [WhatsApp](https://wa.me/8801748973769)
 
 ---
 
