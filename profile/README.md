@@ -17,13 +17,11 @@ Learn Linux. Master AI. Build Freelance Skills. Solve Technical Problems. Work G
 
 Two audiences, one platform:
 
-- 🎓 **Beginner freelancers** — On-demand hands-on training ending in a Linux freelancing career on worldwide marketplaces.
+- 🎓 **Beginner Freelancers** — On-demand hands-on training ending in a Linux freelancing career on worldwide marketplaces.
 - 🏢 **Business Clients** — Linux, VoIP, and cloud infrastructure support for business or individual needs.
 
 ## 📩 Let's Talk
-
 - WhatsApp: [WhatsApp](https://wa.me/8801748973769)
-- Founder: Masum
 
 ---
 
